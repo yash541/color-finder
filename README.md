@@ -4,4 +4,4 @@
 * Window will popup displaying image double-click to know the color.
 * press esc key to close all the tabs
 
-![alt text](1.png)
+![alt text](1.PNG)
