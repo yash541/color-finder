@@ -5,3 +5,4 @@
 * press esc key to close all the tabs
 
 ![alt text](1.PNG)
+![alt text](2.PNG)
